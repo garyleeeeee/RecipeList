@@ -15,6 +15,7 @@
 		620C201625F9F0DD00D511DC /* Recipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 620C201525F9F0DD00D511DC /* Recipe.swift */; };
 		620C201A25F9F2C900D511DC /* RecipeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 620C201925F9F2C900D511DC /* RecipeModel.swift */; };
 		620C201E25F9F54200D511DC /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 620C201D25F9F54200D511DC /* DataService.swift */; };
+		621E97592605B17300E21E96 /* RecipeFeaturedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 621E97582605B17300E21E96 /* RecipeFeaturedView.swift */; };
 		6261BDA025FCA82E0082AA17 /* RecipeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6261BD9F25FCA82E0082AA17 /* RecipeDetailView.swift */; };
 		626B019E26039A29004830EC /* RecipeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 626B019D26039A29004830EC /* RecipeTabView.swift */; };
 /* End PBXBuildFile section */
@@ -30,6 +31,7 @@
 		620C201525F9F0DD00D511DC /* Recipe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recipe.swift; sourceTree = "<group>"; };
 		620C201925F9F2C900D511DC /* RecipeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeModel.swift; sourceTree = "<group>"; };
 		620C201D25F9F54200D511DC /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
+		621E97582605B17300E21E96 /* RecipeFeaturedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeFeaturedView.swift; sourceTree = "<group>"; };
 		6261BD9F25FCA82E0082AA17 /* RecipeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailView.swift; sourceTree = "<group>"; };
 		626B019D26039A29004830EC /* RecipeTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeTabView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -89,6 +91,7 @@
 			isa = PBXGroup;
 			children = (
 				626B019D26039A29004830EC /* RecipeTabView.swift */,
+				621E97582605B17300E21E96 /* RecipeFeaturedView.swift */,
 				620C1FFE25F9EEB100D511DC /* RecipeListView.swift */,
 				6261BD9F25FCA82E0082AA17 /* RecipeDetailView.swift */,
 			);
@@ -203,6 +206,7 @@
 				620C1FFF25F9EEB100D511DC /* RecipeListView.swift in Sources */,
 				620C1FFD25F9EEB100D511DC /* Recipe_List_App.swift in Sources */,
 				620C201E25F9F54200D511DC /* DataService.swift in Sources */,
+				621E97592605B17300E21E96 /* RecipeFeaturedView.swift in Sources */,
 				626B019E26039A29004830EC /* RecipeTabView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
